@@ -1,0 +1,1 @@
+IMAGE = "${CONTAINER}/kubeflow/test:v1"
